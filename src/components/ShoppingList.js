@@ -11,7 +11,7 @@ function ShoppingList() {
   useEffect(() => {
     fetch("http://localhost:4000/items")
       .then((r) => r.json())
-      .then((items) => setItems(items.reverse()));
+      .then((items) => setItems(items));
   }, []);
 
   function handleAddItem(newItem) {
