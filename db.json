@@ -35,6 +35,24 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "swiss tr",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "swiss tr",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "swiss tr",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 10
     }
   ]
 }
